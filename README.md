@@ -2,6 +2,19 @@
 
 Implementation of a Spiking Neural Network model inspired by [Deihl et al.](https://www.frontiersin.org/articles/10.3389/fncom.2015.00099/full) for digit recognition on the [N-MNIST dataset](https://www.garrickorchard.com/datasets/n-mnist) on the Neuromophic system [SpiNNaker](https://apt.cs.manchester.ac.uk/projects/SpiNNaker/) using the software package [sPyNNaker](https://github.com/SpiNNakerManchester/sPyNNaker).
 
+## Dependencies
+- Python3
+- pyNN
+- numpy
+- matplotlib
+- seaborn
+- os
+- sys
+- openCV
+- random
+- eventvision [https://github.com/gorchard/event-Python/blob/master/eventvision.py]
+
+
 ## To-Do
 
 - [ ] Get Accuracy.
